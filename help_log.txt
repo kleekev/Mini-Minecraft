@@ -1,0 +1,11 @@
+2023-03-24 1:55pm: Adam helped me understand how to implement player deceleration.
+2023-03-26 6:00pm: Thomas helped me debug parts of my collision response.
+2023-03-28 10:31am: Joanna helped me prevent players from phasing into blocks during collision response.
+2023-03-27 4:00pm: Went to OH to understand how to buffer the interleaved data
+2023-04-08 12:00pm : Went to OH to understand how to do textures
+2023-04-09 7:30pm: Thomas helped clarify some implementation details around lava/water blocks.
+2023-04-09 9:00pm: Used equations from https://stackoverflow.com/questions/6615002/given-an-rgb-value-how-do-i-create-a-tint-or-shade ti apply post processing tint
+2023-04-10 4:00pm : Went to OH to understand how to do the animation of water/lava
+2023-04-11 3:30pm : Went to OH to ask about rendering transparrency vs opaque
+2023-04-14 6:00pm : Referenced https://gamedevelopment.tutsplus.com/tutorials/using-displacement-shaders-to-create-an-underwater-effect--cms-27191 to implement post process water distortion.
+2023-04-18 7:00pm: Referenced https://gaming.stackexchange.com/questions/352557/whats-the-uv-map-for-creeper-png to sample creeper texture file
